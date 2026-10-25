@@ -3,7 +3,7 @@
   "completed_count": 622,
   "independent_portrait_count": 615,
   "compatibility_file_count": 7,
-  "worldbook_sha256": "59522d4673df781a3cb8bb87b5e13af314721b9adde729cec3cc73880442d5ab",
+  "worldbook_sha256": "ae3199855825a4a0ce9d61eca4247abe6067b2c6bf32cca855938a5638b40c9d",
   "conditional_aliases": [
     {
       "aliases": [
@@ -332,7 +332,11 @@
     "Ivan the Terrible": "fgo_205.webp",
     "伊凡四世": "fgo_205.webp",
     "伊凡雷帝": "fgo_205.webp",
-    "齐格": "fgo_208.webp",
+    "Caster齐格": "fgo_208.webp",
+    "Sieg (Caster)": "fgo_208.webp",
+    "从者齐格": "fgo_208.webp",
+    "齐格(Caster)": "fgo_208.webp",
+    "齐格（FGO Caster）": "fgo_208.webp",
     "Okita Alter": "fgo_209.webp",
     "冲田Alter": "fgo_209.webp",
     "冲田总司〔Alter〕(Alterego)": "fgo_209.webp",
@@ -1802,6 +1806,8 @@
     "萤冢音子": "otoko_hotaruzuka.webp",
     "蛍塚ネコ": "otoko_hotaruzuka.webp",
     "狮子劫界离": "kairi_sisigou.webp",
+    "蕾缇希亚": "laeticia.webp",
+    "蕾缇希娅": "laeticia.webp",
     "七夜黄理": "kiri_nanaya.webp",
     "阿尔托莉雅（FZ黑西装）": "artoria_fz_black_suit.webp",
     "Sha Naqba Imuru": "gilgamesh_fz_armor.webp",
@@ -1811,7 +1817,12 @@
     "两仪式（高中时期）": "ryougi_shiki_knk_highschool.webp",
     "两仪式（根源式，空境终章）": "ryougi_shiki_knk_origin.webp",
     "卫宫切嗣（少年时期）": "kiritsugu_child.webp",
+    "Sieg": "sieg_apocrypha_homunculus.webp",
+    "人造人齐格": "sieg_apocrypha_homunculus.webp",
+    "齐格": "sieg_apocrypha_homunculus.webp",
+    "齐格 (Apocrypha)": "sieg_apocrypha_homunculus.webp",
     "齐格（Apocrypha人造人本体）": "sieg_apocrypha_homunculus.webp",
+    "齐格（Apocrypha）": "sieg_apocrypha_homunculus.webp",
     "卡斯托耳（Saber双子兄）": "castor_saber.webp",
     "波鲁克斯（Saber双子妹）": "pollux_saber.webp",
     "安妮·伯妮（Rider）": "anne_bonny_rider.webp",
@@ -2012,18 +2023,6 @@
     "浅上藤乃": [
       "fgo_200.webp",
       "fujino_asagami_knk.webp"
-    ],
-    "Caster齐格": [
-      "fgo_208.webp",
-      "sieg_apocrypha_homunculus.webp"
-    ],
-    "从者齐格": [
-      "fgo_208.webp",
-      "sieg_apocrypha_homunculus.webp"
-    ],
-    "齐格(Caster)": [
-      "fgo_208.webp",
-      "sieg_apocrypha_homunculus.webp"
     ],
     "冲田总司〔Alter〕": [
       "fgo_209.webp",
@@ -2360,14 +2359,6 @@
     "娜塔莉亚·卡明斯基": [
       "natalia_kaminski.webp",
       "kiritsugu_child.webp"
-    ],
-    "蕾缇希亚": [
-      "laeticia.webp",
-      "sieg_apocrypha_homunculus.webp"
-    ],
-    "蕾缇希娅": [
-      "laeticia.webp",
-      "sieg_apocrypha_homunculus.webp"
     ],
     "第四次圣杯战争篇": [
       "artoria_fz_black_suit.webp",
@@ -4840,13 +4831,14 @@
     {
       "file_key": "fgo_208.webp",
       "repo_relative_path": "chars/fgo_208.webp",
-      "canonical_name": "齐格",
+      "canonical_name": "齐格（FGO Caster）",
       "english_name": null,
       "aliases": [
-        "Caster齐格",
+        "齐格(Caster)",
         "从者齐格",
-        "齐格",
-        "齐格(Caster)"
+        "Caster齐格",
+        "齐格（FGO Caster）",
+        "Sieg (Caster)"
       ],
       "worldbook_uids": [
         419
@@ -15419,24 +15411,23 @@
       "canonical_name": "齐格（Apocrypha人造人本体）",
       "english_name": "Sieg",
       "aliases": [
-        "Caster齐格",
-        "从者齐格",
-        "蕾缇希亚",
-        "蕾缇希娅",
-        "齐格(Caster)",
+        "齐格",
+        "Sieg",
+        "人造人齐格",
+        "齐格 (Apocrypha)",
+        "齐格（Apocrypha）",
         "齐格（Apocrypha人造人本体）"
       ],
       "worldbook_uids": [
-        677,
-        419
+        694
       ],
       "period_or_variant": "Apocrypha人造人少年本体；FGO Caster保留原文件",
-      "gender": null,
+      "gender": "男",
       "width": 1254,
       "height": 1254,
       "sha256": "c88bf787e0584ca4da4e1f18fb84977c432ca5a283e96353c95dbb53918d16c0",
       "compatibility_alias_of": null,
-      "visual_review": "reference-guided generation with Codex visual checks; fine details may differ"
+      "visual_review": "2026-10-26: compared with official Apocrypha Sieg model sheet; gray-brown tousled hair, red-brown eyes, white open-collar shirt and black vest match. Complete hair contour visible; top margin narrow. Reused without image changes."
     },
     {
       "file_key": "castor_saber.webp",
@@ -16030,5 +16021,7 @@
       "compatibility_alias_of": "castor_saber.webp",
       "visual_review": "reference-guided generation with Codex visual checks; fine details may differ"
     }
-  ]
+  ],
+  "worldbook_entry_count": 644,
+  "worldbook_character_count": 613
 }
