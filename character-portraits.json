@@ -2595,7 +2595,6 @@
       "artoria.webp",
       "cu_chulainn.webp",
       "diarmuid.webp",
-      "emiya_archer.webp",
       "emiya_kiritsugu.webp",
       "emiya_shirou.webp",
       "enkidu.webp",
@@ -2786,9 +2785,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "985dfbd76818daf781890cd7861ebbfc11dd1f9a4c4a403c21198169ef40733e",
+      "sha256": "04e84cad5e2813dede2ec1a27ccc99944030f517c0300b7e83b6701a7b997349",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-26: regenerated to match user-provided adult Archer EMIYA reference; angular face, narrow gray eyes, tan skin, swept-back white hair and red/gold-trimmed costume. Candidate explicitly accepted by user."
     },
     {
       "file_key": "emiya_kiritsugu.webp",
