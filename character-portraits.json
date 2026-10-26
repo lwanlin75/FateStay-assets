@@ -2597,7 +2597,6 @@
   ],
   "review_limitations": {
     "early_portraits_without_independent_original_image_check": [
-      "angra_mainyu.webp",
       "artoria.webp",
       "cu_chulainn.webp",
       "diarmuid.webp",
@@ -2608,16 +2607,12 @@
       "gilles_de_rais.webp",
       "gray_fate.webp",
       "hassan_cursed_arm.webp",
-      "hassan_zero.webp",
       "heracles.webp",
-      "hisau_maiya.webp",
       "illyasviel.webp",
       "irisviel.webp",
       "ishtar.webp",
       "iskandar.webp",
-      "kayneth.webp",
       "kotomine_kirei.webp",
-      "kuzuki_souichirou.webp",
       "lancelot_berserker.webp",
       "leysritt.webp",
       "lord_el_melloi_ii.webp",
@@ -2628,12 +2623,8 @@
       "medea_caster.webp",
       "medusa_rider.webp",
       "reines.webp",
-      "richard_i.webp",
-      "ryuudou_issei.webp",
       "sasaki_kojirou.webp",
       "sella.webp",
-      "sola_ui.webp",
-      "tohsaka_aoi.webp",
       "tohsaka_rin.webp",
       "tohsaka_tokiomi.webp",
       "uryuu_ryuunosuke.webp",
@@ -2661,9 +2652,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "1d72bbe621e41c0a76abab4916cf6c80428df0d3c5542fecb1e5661823da6ef5",
+      "sha256": "4066f4c62bc7ac9607cff1b9807ac876a5ac8c323197c4b6c49808f5a370d51e",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 按官方HA立绘恢复红头巾、灰黑肤色和脸颈胸连续的红黑咒纹，勿用通用部落火焰纹。"
     },
     {
       "file_key": "artoria.webp",
@@ -11128,9 +11119,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "13bd7a66ed18cbc69c7a3fde1cf768671810282e4599af8f3c9151acb179e975",
+      "sha256": "eb64489764078688665c76cdb4acad11907f2a0b262ab9fa304671b2e5b30958",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 恢复FZ男性人格的头套、短齿面具和颈肩紧身服，区别咒腕。"
     },
     {
       "file_key": "heracles.webp",
@@ -11171,9 +11162,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "79000251fb6373d79dfb297f0bfdd8f9b1432da2b3c4b50c4ea9581fccc6d5af",
+      "sha256": "41a09643c30354e53216d42ba174e5211c36b3936e4554a570a541e7c6356fe1",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 保持头部，按FZ设定重画高领横扣战术上衣。"
     },
     {
       "file_key": "illyasviel.webp",
@@ -11274,9 +11265,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "ff97f45cce79934bf9985ffb21adafc1d23342098c1d7a331cabb8ef3a37af25",
+      "sha256": "6a475e52bf5dfaf6dca20ae727330d9b397ce1e1709e1567e6959692e81e92a7",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 按FZ设定恢复蓝色立领长袍及横扣。"
     },
     {
       "file_key": "kotomine_kirei.webp",
@@ -11316,9 +11307,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "82545d79aebae85791463471232b7bee61336302c35f3724b1fd1c3afab5f30a",
+      "sha256": "ba8a666572ffda79231f5a38da79f3f8835df81f29477b26a2ef58ac341e2caf",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 恢复葛木平整下垂刘海和深绿西装。"
     },
     {
       "file_key": "lancelot_berserker.webp",
@@ -11568,9 +11559,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "893d7eb318369f251348a7223431bea1fbc4fa133e75175474af2d2c484f6895",
+      "sha256": "b890b6967661a81fa69eac5d4bd722bdf1ccdb848b545a393724aa63eba096ef",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 恢复红瞳和原作胸甲、肩甲及单侧披风结构。"
     },
     {
       "file_key": "ryuudou_issei.webp",
@@ -11588,9 +11579,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "bda138c3e39e16a62e81d3c45dae197d79e1d9e5d990b4b1846b71c33f82c612",
+      "sha256": "882f9080ba778626c713ad4d9d9519ed3ca34f25c5218c44bc308ef2497587b6",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 恢复侧扫发束及棕色校服。"
     },
     {
       "file_key": "sasaki_kojirou.webp",
@@ -11648,9 +11639,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "bc6ff784c93b9eec5b1ef5ecbb3ad28f7d25fc20efb03c61692dcc545ae4fb37",
+      "sha256": "cdbd25071b1687d9c805972555f4145b75dbd4c4fd0555393d53bfa0ead9f26a",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 恢复暗红侧扫短发、原作白衬衫红领结；移除虚构长耳坠黑外套。"
     },
     {
       "file_key": "tohsaka_aoi.webp",
@@ -11667,9 +11658,9 @@
       "gender": null,
       "width": 1254,
       "height": 1254,
-      "sha256": "4626385f7e3c849094ad284712354029315c50005d9d06a29bb5edfff65df76d",
+      "sha256": "75dc1c9a62a981540e149bdcad17e4bffc4d4adfd49c7f0017ca069f6ab05f1b",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-27: User selected this portrait in the review webpage and confirmed redraw. Generated against the official original reference; manually compared face, hair, eyes, costume and head framing. 按FZ葵恢复齐刘海长披发、浅绿裙白披肩。"
     },
     {
       "file_key": "tohsaka_rin.webp",
