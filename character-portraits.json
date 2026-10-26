@@ -1,9 +1,9 @@
 {
   "status": "complete_with_intentional_blanks",
-  "completed_count": 622,
-  "independent_portrait_count": 615,
+  "completed_count": 640,
+  "independent_portrait_count": 633,
   "compatibility_file_count": 7,
-  "worldbook_sha256": "ae3199855825a4a0ce9d61eca4247abe6067b2c6bf32cca855938a5638b40c9d",
+  "worldbook_sha256": "4901cdc9ca059b20cc45d5e9bf4b7499331d2f3036f289ed028816b49382f991",
   "conditional_aliases": [
     {
       "aliases": [
@@ -332,11 +332,11 @@
     "Ivan the Terrible": "fgo_205.webp",
     "伊凡四世": "fgo_205.webp",
     "伊凡雷帝": "fgo_205.webp",
-    "Caster齐格": "fgo_208.webp",
-    "Sieg (Caster)": "fgo_208.webp",
-    "从者齐格": "fgo_208.webp",
     "齐格(Caster)": "fgo_208.webp",
+    "从者齐格": "fgo_208.webp",
+    "Caster齐格": "fgo_208.webp",
     "齐格（FGO Caster）": "fgo_208.webp",
+    "Sieg (Caster)": "fgo_208.webp",
     "Okita Alter": "fgo_209.webp",
     "冲田Alter": "fgo_209.webp",
     "冲田总司〔Alter〕(Alterego)": "fgo_209.webp",
@@ -669,10 +669,16 @@
     "摩根": "fgo_309.webp",
     "Barghest": "fgo_310.webp",
     "妖精骑士高文": "fgo_310.webp",
+    "妖高": "fgo_310.webp",
+    "巴格斯特": "fgo_310.webp",
+    "巴格斯特（Saber）": "fgo_310.webp",
     "芭格丝特": "fgo_310.webp",
     "Baobhan Sith": "fgo_311.webp",
+    "妖崔": "fgo_311.webp",
     "妖精骑士崔斯坦": "fgo_311.webp",
     "芭万·希": "fgo_311.webp",
+    "芭万·希（Archer）": "fgo_311.webp",
+    "芭万希": "fgo_311.webp",
     "Melusine": "fgo_312.webp",
     "妖兰": "fgo_312.webp",
     "妖精骑士兰斯洛特": "fgo_312.webp",
@@ -680,8 +686,13 @@
     "Percival": "fgo_313.webp",
     "光耀的命运之枪": "fgo_313.webp",
     "圣杯骑士": "fgo_313.webp",
+    "帕西瓦尔": "fgo_313.webp",
+    "帕西瓦尔（Lancer）": "fgo_313.webp",
+    "枪阶帕西瓦尔": "fgo_313.webp",
     "炫目的选定之枪": "fgo_313.webp",
     "珀西瓦尔": "fgo_313.webp",
+    "珀西瓦尔（Lancer）": "fgo_313.webp",
+    "纯白骑士": "fgo_313.webp",
     "Koyanskaya of Light": "fgo_314.webp",
     "光之高扬斯卡娅": "fgo_314.webp",
     "光高扬": "fgo_314.webp",
@@ -774,6 +785,8 @@
     "Kriemhild": "fgo_345.webp",
     "克里姆希尔德": "fgo_345.webp",
     "克里姆希尔德(Berserker)": "fgo_345.webp",
+    "克里姆希尔德（Berserker）": "fgo_345.webp",
+    "飞嫂": "fgo_345.webp",
     "Ruler莫里亚蒂": "fgo_346.webp",
     "年轻莫里亚蒂": "fgo_346.webp",
     "泳装莫里亚蒂": "fgo_346.webp",
@@ -873,7 +886,6 @@
     "幼体提亚马特": "fgo_376.webp",
     "幼体／提亚马特": "fgo_376.webp",
     "幼体／提亚马特(Alterego)": "fgo_376.webp",
-    "提亚马特": "fgo_376.webp",
     "Beast VI/S": "fgo_377.webp",
     "Draco": "fgo_377.webp",
     "尼禄（兽）": "fgo_377.webp",
@@ -1823,12 +1835,12 @@
     "两仪式（高中时期）": "ryougi_shiki_knk_highschool.webp",
     "两仪式（根源式，空境终章）": "ryougi_shiki_knk_origin.webp",
     "卫宫切嗣（少年时期）": "kiritsugu_child.webp",
+    "齐格": "sieg_apocrypha_homunculus.webp",
     "Sieg": "sieg_apocrypha_homunculus.webp",
     "人造人齐格": "sieg_apocrypha_homunculus.webp",
-    "齐格": "sieg_apocrypha_homunculus.webp",
     "齐格 (Apocrypha)": "sieg_apocrypha_homunculus.webp",
-    "齐格（Apocrypha人造人本体）": "sieg_apocrypha_homunculus.webp",
     "齐格（Apocrypha）": "sieg_apocrypha_homunculus.webp",
+    "齐格（Apocrypha人造人本体）": "sieg_apocrypha_homunculus.webp",
     "卡斯托耳（Saber双子兄）": "castor_saber.webp",
     "波鲁克斯（Saber双子妹）": "pollux_saber.webp",
     "安妮·伯妮（Rider）": "anne_bonny_rider.webp",
@@ -1859,7 +1871,118 @@
     "藤丸立香(女)": "fujimaru_ritsuka_female.webp",
     "藤丸立香〔女〕": "fujimaru_ritsuka_female.webp",
     "藤丸立香女": "fujimaru_ritsuka_female.webp",
-    "藤丸立香（女）": "fujimaru_ritsuka_female.webp"
+    "藤丸立香（女）": "fujimaru_ritsuka_female.webp",
+    "Olga Marie": "olga_marie_fgo.webp",
+    "Olga Marie Animusphere": "olga_marie_fgo.webp",
+    "奥尔加玛丽": "olga_marie_fgo.webp",
+    "奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚": "olga_marie_fgo.webp",
+    "奥尔加玛丽（FGO）": "olga_marie_fgo.webp",
+    "A队队长": "kirschtaria_wodime_fgo.webp",
+    "Kirschtaria Wodime": "kirschtaria_wodime_fgo.webp",
+    "Wodime": "kirschtaria_wodime_fgo.webp",
+    "基尔什塔利亚": "kirschtaria_wodime_fgo.webp",
+    "基尔什塔利亚·沃戴姆": "kirschtaria_wodime_fgo.webp",
+    "基尔什塔利亚·沃达伊姆": "kirschtaria_wodime_fgo.webp",
+    "沃达伊姆": "kirschtaria_wodime_fgo.webp",
+    "Kadoc": "kadoc_zemlupus_fgo.webp",
+    "Kadoc Zemlupus": "kadoc_zemlupus_fgo.webp",
+    "卡多克": "kadoc_zemlupus_fgo.webp",
+    "卡多克·泽姆露普斯": "kadoc_zemlupus_fgo.webp",
+    "卡多克·泽姆鲁普斯": "kadoc_zemlupus_fgo.webp",
+    "卡少": "kadoc_zemlupus_fgo.webp",
+    "Ophelia": "ophelia_phamrsolone_fgo.webp",
+    "Ophelia Phamrsolone": "ophelia_phamrsolone_fgo.webp",
+    "奥菲莉娅": "ophelia_phamrsolone_fgo.webp",
+    "奥菲莉娅·法姆索罗涅": "ophelia_phamrsolone_fgo.webp",
+    "Akuta": "akuta_hinako_crypter.webp",
+    "Akuta Hinako": "akuta_hinako_crypter.webp",
+    "Hinako Akuta": "akuta_hinako_crypter.webp",
+    "芥ヒナコ": "akuta_hinako_crypter.webp",
+    "芥雏子": "akuta_hinako_crypter.webp",
+    "芥雏子（隐匿者）": "akuta_hinako_crypter.webp",
+    "Pepe": "scandinavia_peperoncino_fgo.webp",
+    "Scandinavia Peperoncino": "scandinavia_peperoncino_fgo.webp",
+    "佩佩": "scandinavia_peperoncino_fgo.webp",
+    "佩佩隆奇诺": "scandinavia_peperoncino_fgo.webp",
+    "斯堪的纳维亚·佩佩隆奇诺": "scandinavia_peperoncino_fgo.webp",
+    "Beryl": "beryl_gut_fgo.webp",
+    "Beryl Gut": "beryl_gut_fgo.webp",
+    "贝里尔": "beryl_gut_fgo.webp",
+    "贝里尔·伽特": "beryl_gut_fgo.webp",
+    "Daybit": "daybit_sem_void_fgo.webp",
+    "Daybit Sem Void": "daybit_sem_void_fgo.webp",
+    "戴总": "daybit_sem_void_fgo.webp",
+    "戴比特": "daybit_sem_void_fgo.webp",
+    "戴比特·泽姆·沃伊德": "daybit_sem_void_fgo.webp",
+    "Goldolf Musik": "goredolf_musik_fgo.webp",
+    "Gordolf Musik": "goredolf_musik_fgo.webp",
+    "Goredolf Musik": "goredolf_musik_fgo.webp",
+    "戈尔多夫": "goredolf_musik_fgo.webp",
+    "戈尔德鲁夫": "goredolf_musik_fgo.webp",
+    "戈尔德鲁夫·穆吉克": "goredolf_musik_fgo.webp",
+    "戈尔道夫": "goredolf_musik_fgo.webp",
+    "戈尔道夫·穆吉克": "goredolf_musik_fgo.webp",
+    "新所长": "goredolf_musik_fgo.webp",
+    "穆吉克": "goredolf_musik_fgo.webp",
+    "Sion": "sion_eltnam_sokaris_fgo.webp",
+    "Sion Eltnam Sokaris": "sion_eltnam_sokaris_fgo.webp",
+    "シオン・エルトナム・ソカリス": "sion_eltnam_sokaris_fgo.webp",
+    "希翁": "sion_eltnam_sokaris_fgo.webp",
+    "希翁（FGO）": "sion_eltnam_sokaris_fgo.webp",
+    "紫苑": "sion_eltnam_sokaris_fgo.webp",
+    "紫苑·艾尔特纳姆·索卡里斯": "sion_eltnam_sokaris_fgo.webp",
+    "紫苑（FGO）": "sion_eltnam_sokaris_fgo.webp",
+    "Camazotz": "camazotz_lb7.webp",
+    "カマソッソ": "camazotz_lb7.webp",
+    "冥界王卡玛佐茨": "camazotz_lb7.webp",
+    "勇者王": "camazotz_lb7.webp",
+    "卡玛佐茨": "camazotz_lb7.webp",
+    "卡马佐茨": "camazotz_lb7.webp",
+    "蝙蝠神": "camazotz_lb7.webp",
+    "Zeus": "zeus_lb5_humanoid.webp",
+    "全能神宙斯": "zeus_lb5_humanoid.webp",
+    "奥林匹斯宙斯": "zeus_lb5_humanoid.webp",
+    "宙斯": "zeus_lb5_humanoid.webp",
+    "宙斯（奥林匹斯人形）": "zeus_lb5_humanoid.webp",
+    "机神宙斯": "zeus_lb5_humanoid.webp",
+    "Beast I": "goetia_beast_i.webp",
+    "Goetia": "goetia_beast_i.webp",
+    "怜悯之兽": "goetia_beast_i.webp",
+    "盖提亚": "goetia_beast_i.webp",
+    "盖提亚（魔神王）": "goetia_beast_i.webp",
+    "魔神王": "goetia_beast_i.webp",
+    "魔神王盖提亚": "goetia_beast_i.webp",
+    "Surtr": "surtr_lb2.webp",
+    "Surtr-Fenrir": "surtr_lb2.webp",
+    "史尔特尔": "surtr_lb2.webp",
+    "灾厄之炎": "surtr_lb2.webp",
+    "炎之巨人": "surtr_lb2.webp",
+    "苏鲁特": "surtr_lb2.webp",
+    "苏鲁特·芬里尔": "surtr_lb2.webp",
+    "Grand Caster": "solomon_grand_caster.webp",
+    "冠位魔术师所罗门": "solomon_grand_caster.webp",
+    "所罗门（Grand Caster）": "solomon_grand_caster.webp",
+    "真正的所罗门": "solomon_grand_caster.webp",
+    "魔术之王": "solomon_grand_caster.webp",
+    "Beast II": "tiamat_beast_ii.webp",
+    "原初之母": "tiamat_beast_ii.webp",
+    "回归之兽": "tiamat_beast_ii.webp",
+    "提亚马特神": "tiamat_beast_ii.webp",
+    "提亚马特（Beast II）": "tiamat_beast_ii.webp",
+    "Beast IV": "fou_cath_palug.webp",
+    "凯席帕鲁格": "fou_cath_palug.webp",
+    "比较之兽": "fou_cath_palug.webp",
+    "灵长类杀手": "fou_cath_palug.webp",
+    "Beast VII": "u_olga_marie_beast_vii.webp",
+    "U-Olga Marie": "u_olga_marie_beast_vii.webp",
+    "U-奥尔加玛丽": "u_olga_marie_beast_vii.webp",
+    "大总统奥尔加玛丽": "u_olga_marie_beast_vii.webp",
+    "异星之神": "u_olga_marie_beast_vii.webp",
+    "极星大总统": "u_olga_marie_beast_vii.webp",
+    "Ｕ－オルガマリー": "u_olga_marie_beast_vii.webp",
+    "齐格飞": "siegfried.webp",
+    "山之翁": "fgo_154.webp",
+    "堂吉诃德": "fgo_347.webp"
   },
   "ambiguous_alias_candidates": {
     "Altria": [
@@ -2075,10 +2198,6 @@
       "fgo_228.webp",
       "qin_liangyu.webp"
     ],
-    "虞美人": [
-      "fgo_230.webp",
-      "fgo_288.webp"
-    ],
     "紫式部": [
       "fgo_237.webp",
       "fgo_291.webp"
@@ -2116,8 +2235,8 @@
       "fgo_46.webp"
     ],
     "阿斯托尔福": [
-      "fgo_270.webp",
-      "astolfo.webp"
+      "astolfo.webp",
+      "fgo_270.webp"
     ],
     "Orion": [
       "fgo_272.webp",
@@ -2148,8 +2267,8 @@
       "fgo_386.webp"
     ],
     "布伦希尔德": [
-      "fgo_287.webp",
-      "brynhildr.webp"
+      "brynhildr.webp",
+      "fgo_287.webp"
     ],
     "伊吹童子": [
       "fgo_299.webp",
@@ -2192,17 +2311,17 @@
       "fgo_96.webp"
     ],
     "苍崎青子": [
-      "fgo_413.webp",
       "aoko_aozaki_mahoyo.webp",
-      "aoko_aozaki_tsukihime.webp"
+      "aoko_aozaki_tsukihime.webp",
+      "fgo_413.webp"
     ],
     "静希草十郎": [
       "fgo_414.webp",
       "soujuurou_shizuki_mahoyo.webp"
     ],
     "久远寺有珠": [
-      "fgo_415.webp",
-      "alice_kuonji_mahoyo.webp"
+      "alice_kuonji_mahoyo.webp",
+      "fgo_415.webp"
     ],
     "岸波白野": [
       "fgo_424.webp",
@@ -2213,20 +2332,20 @@
       "vlad_iii.webp"
     ],
     "Jekyll and Hyde": [
-      "fgo_81.webp",
-      "edward_hyde.webp"
+      "edward_hyde.webp",
+      "fgo_81.webp"
     ],
     "亨利·杰基尔＆海德": [
-      "fgo_81.webp",
-      "edward_hyde.webp"
+      "edward_hyde.webp",
+      "fgo_81.webp"
     ],
     "杰基尔": [
-      "fgo_81.webp",
-      "edward_hyde.webp"
+      "edward_hyde.webp",
+      "fgo_81.webp"
     ],
     "杰基尔与海德": [
-      "fgo_81.webp",
-      "edward_hyde.webp"
+      "edward_hyde.webp",
+      "fgo_81.webp"
     ],
     "贝奥武夫": [
       "fgo_89.webp",
@@ -2239,12 +2358,12 @@
     "两仪式": [
       "fgo_91.webp",
       "fgo_92.webp",
-      "shiki_ryougi_knk.webp",
-      "ryougi_shiki_knk_highschool.webp"
+      "ryougi_shiki_knk_highschool.webp",
+      "shiki_ryougi_knk.webp"
     ],
     "天草四郎": [
-      "fgo_93.webp",
-      "amakusa_shirou_apocrypha_priest.webp"
+      "amakusa_shirou_apocrypha_priest.webp",
+      "fgo_93.webp"
     ],
     "Enkidu": [
       "gilgamesh.webp",
@@ -2331,40 +2450,40 @@
       "aoko_aozaki_tsukihime.webp"
     ],
     "Touko Aozaki": [
-      "touko_aozaki_mahoyo.webp",
-      "touko_aozaki_knk.webp"
+      "touko_aozaki_knk.webp",
+      "touko_aozaki_mahoyo.webp"
     ],
     "橙子": [
-      "touko_aozaki_mahoyo.webp",
-      "touko_aozaki_knk.webp"
+      "touko_aozaki_knk.webp",
+      "touko_aozaki_mahoyo.webp"
     ],
     "苍崎橙子": [
-      "touko_aozaki_mahoyo.webp",
-      "touko_aozaki_knk.webp"
+      "touko_aozaki_knk.webp",
+      "touko_aozaki_mahoyo.webp"
     ],
     "蒼崎橙子": [
-      "touko_aozaki_mahoyo.webp",
-      "touko_aozaki_knk.webp"
+      "touko_aozaki_knk.webp",
+      "touko_aozaki_mahoyo.webp"
     ],
     "/(?:两仪|「式」|“式”|式姐)/": [
-      "shiki_ryougi_knk.webp",
-      "ryougi_shiki_knk_highschool.webp"
+      "ryougi_shiki_knk_highschool.webp",
+      "shiki_ryougi_knk.webp"
     ],
     "Shiki Ryougi": [
-      "shiki_ryougi_knk.webp",
-      "ryougi_shiki_knk_highschool.webp"
+      "ryougi_shiki_knk_highschool.webp",
+      "shiki_ryougi_knk.webp"
     ],
     "両儀式": [
-      "shiki_ryougi_knk.webp",
-      "ryougi_shiki_knk_highschool.webp"
+      "ryougi_shiki_knk_highschool.webp",
+      "shiki_ryougi_knk.webp"
     ],
     "Natalia Kaminski": [
-      "natalia_kaminski.webp",
-      "kiritsugu_child.webp"
+      "kiritsugu_child.webp",
+      "natalia_kaminski.webp"
     ],
     "娜塔莉亚·卡明斯基": [
-      "natalia_kaminski.webp",
-      "kiritsugu_child.webp"
+      "kiritsugu_child.webp",
+      "natalia_kaminski.webp"
     ],
     "第四次圣杯战争篇": [
       "artoria_fz_black_suit.webp",
@@ -2431,27 +2550,27 @@
       "mary_read_archer.webp"
     ],
     "Valkyrie": [
-      "ortlinde_lancer.webp",
       "hildr_lancer.webp",
+      "ortlinde_lancer.webp",
       "thrud_lancer.webp"
     ],
     "女武神": [
-      "ortlinde_lancer.webp",
       "hildr_lancer.webp",
+      "ortlinde_lancer.webp",
       "thrud_lancer.webp"
     ],
     "瓦尔基里": [
-      "ortlinde_lancer.webp",
       "hildr_lancer.webp",
+      "ortlinde_lancer.webp",
       "thrud_lancer.webp"
     ],
     "Trung Sisters": [
-      "trung_trac_saber.webp",
-      "trung_nhi_saber.webp"
+      "trung_nhi_saber.webp",
+      "trung_trac_saber.webp"
     ],
     "征氏姐妹": [
-      "trung_trac_saber.webp",
-      "trung_nhi_saber.webp"
+      "trung_nhi_saber.webp",
+      "trung_trac_saber.webp"
     ],
     "Hibiki & Chikagi": [
       "hibino_hibiki_alterego.webp",
@@ -2472,6 +2591,39 @@
       "hibino_hibiki_alterego.webp",
       "katsuragi_chikagi_alterego.webp",
       "sirius_azumi_no_isora.webp"
+    ],
+    "虞姬": [
+      "akuta_hinako_crypter.webp"
+    ],
+    "所罗门": [
+      "solomon_grand_caster.webp"
+    ],
+    "所长": [
+      "olga_marie_fgo.webp"
+    ],
+    "提亚马特": [
+      "fgo_376.webp",
+      "tiamat_beast_ii.webp"
+    ],
+    "Solomon": [
+      "solomon_grand_caster.webp"
+    ],
+    "Cath Palug": [
+      "fou_cath_palug.webp"
+    ],
+    "虞美人": [
+      "akuta_hinako_crypter.webp",
+      "fgo_230.webp",
+      "fgo_288.webp"
+    ],
+    "Fou": [
+      "fou_cath_palug.webp"
+    ],
+    "芙芙": [
+      "fou_cath_palug.webp"
+    ],
+    "Tiamat": [
+      "tiamat_beast_ii.webp"
     ]
   },
   "ambiguous_alias_policy": "Resolve by current profile identity, period and variant; do not choose a fixed default.",
@@ -7139,10 +7291,14 @@
       "aliases": [
         "Barghest",
         "妖精骑士高文",
+        "妖高",
+        "巴格斯特",
+        "巴格斯特（Saber）",
         "芭格丝特"
       ],
       "worldbook_uids": [
-        518
+        518,
+        734
       ],
       "period_or_variant": "Saber (FGO) / 妖精骑士高文",
       "gender": null,
@@ -7159,11 +7315,15 @@
       "english_name": null,
       "aliases": [
         "Baobhan Sith",
+        "妖崔",
         "妖精骑士崔斯坦",
-        "芭万·希"
+        "芭万·希",
+        "芭万·希（Archer）",
+        "芭万希"
       ],
       "worldbook_uids": [
-        519
+        519,
+        735
       ],
       "period_or_variant": "Archer (FGO) / 妖精骑士崔斯坦",
       "gender": null,
@@ -7205,11 +7365,17 @@
         "Percival",
         "光耀的命运之枪",
         "圣杯骑士",
+        "帕西瓦尔",
+        "帕西瓦尔（Lancer）",
+        "枪阶帕西瓦尔",
         "炫目的选定之枪",
-        "珀西瓦尔"
+        "珀西瓦尔",
+        "珀西瓦尔（Lancer）",
+        "纯白骑士"
       ],
       "worldbook_uids": [
-        521
+        521,
+        741
       ],
       "period_or_variant": "Lancer (FGO) / 珀西瓦尔",
       "gender": null,
@@ -7849,10 +8015,13 @@
       "aliases": [
         "Kriemhild",
         "克里姆希尔德",
-        "克里姆希尔德(Berserker)"
+        "克里姆希尔德(Berserker)",
+        "克里姆希尔德（Berserker）",
+        "飞嫂"
       ],
       "worldbook_uids": [
-        551
+        551,
+        736
       ],
       "period_or_variant": "Berserker (FGO) / 克里姆希尔德(Berserker)",
       "gender": null,
@@ -7893,7 +8062,8 @@
       "aliases": [
         "Don Quixote",
         "唐吉诃德",
-        "堂·吉诃德"
+        "堂·吉诃德",
+        "堂吉诃德"
       ],
       "worldbook_uids": [
         553
@@ -11752,6 +11922,7 @@
         "King Hassan",
         "初代哈桑",
         "山中老人",
+        "山之翁",
         "王哈桑"
       ],
       "worldbook_uids": [
@@ -12485,7 +12656,8 @@
         "恶龙的血铠",
         "飞哥",
         "黑方Saber",
-        "齐格弗里德"
+        "齐格弗里德",
+        "齐格飞"
       ],
       "worldbook_uids": [
         127
@@ -16021,8 +16193,924 @@
       "sha256": "7da70957e02b52f3a83fa74c9f0d73d1b8b2de6b3d744d026a5ef2129aac6674",
       "compatibility_alias_of": "castor_saber.webp",
       "visual_review": "reference-guided generation with Codex visual checks; fine details may differ"
+    },
+    {
+      "file_key": "olga_marie_fgo.webp",
+      "repo_relative_path": "chars/olga_marie_fgo.webp",
+      "canonical_name": "奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚",
+      "english_name": "Olga Marie Asmleit Animusphere",
+      "aliases": [
+        "Olga Marie",
+        "Olga Marie Animusphere",
+        "奥尔加玛丽",
+        "奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚",
+        "奥尔加玛丽（FGO）",
+        "所长"
+      ],
+      "worldbook_uids": [
+        696
+      ],
+      "period_or_variant": "Human Chaldea director / Singularity F; not U-Olga Marie",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1ea9122f6d1d6756c9a1ef4dc4f7fb36fa8a67df288bc9d42420548ae6817259",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Human Chaldea director / Singularity F; not U-Olga Marie"
+    },
+    {
+      "file_key": "kirschtaria_wodime_fgo.webp",
+      "repo_relative_path": "chars/kirschtaria_wodime_fgo.webp",
+      "canonical_name": "基尔什塔利亚·沃达伊姆",
+      "english_name": "Kirschtaria Wodime",
+      "aliases": [
+        "A队队长",
+        "Kirschtaria Wodime",
+        "Wodime",
+        "基尔什塔利亚",
+        "基尔什塔利亚·沃戴姆",
+        "基尔什塔利亚·沃达伊姆",
+        "沃达伊姆"
+      ],
+      "worldbook_uids": [
+        725
+      ],
+      "period_or_variant": "Original Crypter / Olympus",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d90859c23670f1273ac1d28863f1b29218e956a66b7316d190f182eee21a2a64",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter / Olympus"
+    },
+    {
+      "file_key": "kadoc_zemlupus_fgo.webp",
+      "repo_relative_path": "chars/kadoc_zemlupus_fgo.webp",
+      "canonical_name": "卡多克·泽姆露普斯",
+      "english_name": "Kadoc Zemlupus",
+      "aliases": [
+        "Kadoc",
+        "Kadoc Zemlupus",
+        "卡多克",
+        "卡多克·泽姆露普斯",
+        "卡多克·泽姆鲁普斯",
+        "卡少"
+      ],
+      "worldbook_uids": [
+        726
+      ],
+      "period_or_variant": "Original black-coat Crypter",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c6a52bf2f8b8dde9f6d3260ad3c9ce6761c52d173520cee75f496b3dd464cf65",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original black-coat Crypter"
+    },
+    {
+      "file_key": "ophelia_phamrsolone_fgo.webp",
+      "repo_relative_path": "chars/ophelia_phamrsolone_fgo.webp",
+      "canonical_name": "奥菲莉娅·法姆索罗涅",
+      "english_name": "Ophelia Phamrsolone",
+      "aliases": [
+        "Ophelia",
+        "Ophelia Phamrsolone",
+        "奥菲莉娅",
+        "奥菲莉娅·法姆索罗涅"
+      ],
+      "worldbook_uids": [
+        727
+      ],
+      "period_or_variant": "Original Crypter / right-eye patch",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "38a6d5e3c7200f8b350c55c6bead3589aa1370fde7539a443c28da93f7c71404",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter / right-eye patch"
+    },
+    {
+      "file_key": "akuta_hinako_crypter.webp",
+      "repo_relative_path": "chars/akuta_hinako_crypter.webp",
+      "canonical_name": "芥雏子",
+      "english_name": "Akuta Hinako",
+      "aliases": [
+        "Akuta",
+        "Akuta Hinako",
+        "Hinako Akuta",
+        "芥ヒナコ",
+        "芥雏子",
+        "芥雏子（隐匿者）",
+        "虞姬",
+        "虞美人"
+      ],
+      "worldbook_uids": [
+        728
+      ],
+      "period_or_variant": "Crypter disguise / glasses / white duffle coat; not Assassin or swimsuit",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "00e1672bf1ba2ee50e8712530ca02b84aea15c4272c03e0994c20eb485e01cd4",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Crypter disguise / glasses / white duffle coat; not Assassin or swimsuit"
+    },
+    {
+      "file_key": "scandinavia_peperoncino_fgo.webp",
+      "repo_relative_path": "chars/scandinavia_peperoncino_fgo.webp",
+      "canonical_name": "斯堪的纳维亚·佩佩隆奇诺",
+      "english_name": "Scandinavia Peperoncino",
+      "aliases": [
+        "Pepe",
+        "Scandinavia Peperoncino",
+        "佩佩",
+        "佩佩隆奇诺",
+        "斯堪的纳维亚·佩佩隆奇诺"
+      ],
+      "worldbook_uids": [
+        729
+      ],
+      "period_or_variant": "Original Crypter appearance",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4fcafb892643d91e54dc645c97a11862a13d5fb780da6a3344f067c99ea67fae",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter appearance"
+    },
+    {
+      "file_key": "beryl_gut_fgo.webp",
+      "repo_relative_path": "chars/beryl_gut_fgo.webp",
+      "canonical_name": "贝里尔·伽特",
+      "english_name": "Beryl Gut",
+      "aliases": [
+        "Beryl",
+        "Beryl Gut",
+        "贝里尔",
+        "贝里尔·伽特"
+      ],
+      "worldbook_uids": [
+        730
+      ],
+      "period_or_variant": "Human Crypter; not werewolf",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9e922ca5a2246e51cfd9ef2c6e4053011353221ccf92327f13ecc8efb6745ab9",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Human Crypter; not werewolf"
+    },
+    {
+      "file_key": "daybit_sem_void_fgo.webp",
+      "repo_relative_path": "chars/daybit_sem_void_fgo.webp",
+      "canonical_name": "戴比特·泽姆·沃伊德",
+      "english_name": "Daybit Sem Void",
+      "aliases": [
+        "Daybit",
+        "Daybit Sem Void",
+        "戴总",
+        "戴比特",
+        "戴比特·泽姆·沃伊德"
+      ],
+      "worldbook_uids": [
+        731
+      ],
+      "period_or_variant": "Lostbelt 7 original Crypter",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "3611dea4a9a1a84967e45b09278be00ae922b7de6051f167ac112e3135afda8d",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 7 original Crypter"
+    },
+    {
+      "file_key": "goredolf_musik_fgo.webp",
+      "repo_relative_path": "chars/goredolf_musik_fgo.webp",
+      "canonical_name": "戈尔道夫·穆吉克",
+      "english_name": "Goredolf Musik",
+      "aliases": [
+        "Goldolf Musik",
+        "Gordolf Musik",
+        "Goredolf Musik",
+        "戈尔多夫",
+        "戈尔德鲁夫",
+        "戈尔德鲁夫·穆吉克",
+        "戈尔道夫",
+        "戈尔道夫·穆吉克",
+        "新所长",
+        "穆吉克"
+      ],
+      "worldbook_uids": [
+        732
+      ],
+      "period_or_variant": "FGO adult Chaldea new director; not Gordes (Apocrypha)",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cd9ac4a978e4fefb79358e569eef7bdae58d526d3e22e6a0753767c7ce4f9217",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. FGO adult Chaldea new director; not Gordes (Apocrypha)"
+    },
+    {
+      "file_key": "sion_eltnam_sokaris_fgo.webp",
+      "repo_relative_path": "chars/sion_eltnam_sokaris_fgo.webp",
+      "canonical_name": "紫苑·艾尔特纳姆·索卡里斯",
+      "english_name": "Sion Eltnam Sokaris",
+      "aliases": [
+        "Sion",
+        "Sion Eltnam Sokaris",
+        "シオン・エルトナム・ソカリス",
+        "希翁",
+        "希翁（FGO）",
+        "紫苑",
+        "紫苑·艾尔特纳姆·索卡里斯",
+        "紫苑（FGO）"
+      ],
+      "worldbook_uids": [
+        733
+      ],
+      "period_or_variant": "FGO Sokaris / Novum Chaldea; not Melty Blood Eltnam Atlasia",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "12a84cc707e4845ecc7bb02611dea171db48663213ba17ca29d9b2c1ed5a0a01",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. FGO Sokaris / Novum Chaldea; not Melty Blood Eltnam Atlasia"
+    },
+    {
+      "file_key": "camazotz_lb7.webp",
+      "repo_relative_path": "chars/camazotz_lb7.webp",
+      "canonical_name": "卡玛佐茨",
+      "english_name": "Camazotz",
+      "aliases": [
+        "Camazotz",
+        "カマソッソ",
+        "冥界王卡玛佐茨",
+        "勇者王",
+        "卡玛佐茨",
+        "卡马佐茨",
+        "蝙蝠神"
+      ],
+      "worldbook_uids": [
+        737
+      ],
+      "period_or_variant": "Lostbelt 7 humanoid with original headdress; not giant Beast battle body",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2fd3148aa5f9709ea2f02b5ea2049c4dfce3a1991d8acb66c4a16d110e3a20fa",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 7 humanoid with original headdress; not giant Beast battle body"
+    },
+    {
+      "file_key": "zeus_lb5_humanoid.webp",
+      "repo_relative_path": "chars/zeus_lb5_humanoid.webp",
+      "canonical_name": "宙斯",
+      "english_name": "Zeus",
+      "aliases": [
+        "Zeus",
+        "全能神宙斯",
+        "奥林匹斯宙斯",
+        "宙斯",
+        "宙斯（奥林匹斯人形）",
+        "机神宙斯"
+      ],
+      "worldbook_uids": [
+        738
+      ],
+      "period_or_variant": "Lostbelt 5 Olympus humanoid avatar; not mechanical flagship",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5e46b7710ec70d838584fc8277cc32ea8963cde12f0ef79ccaa79880c1f33289",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 5 Olympus humanoid avatar; not mechanical flagship"
+    },
+    {
+      "file_key": "goetia_beast_i.webp",
+      "repo_relative_path": "chars/goetia_beast_i.webp",
+      "canonical_name": "盖提亚",
+      "english_name": "Goetia",
+      "aliases": [
+        "Beast I",
+        "Goetia",
+        "怜悯之兽",
+        "盖提亚",
+        "盖提亚（魔神王）",
+        "魔神王",
+        "魔神王盖提亚"
+      ],
+      "worldbook_uids": [
+        739
+      ],
+      "period_or_variant": "Beast I Demon God King; not Human King or Solomon disguise",
+      "gender": "无性别",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d67e4d33f79a961bdafb9f794a01ea21606b915106c6aa27ed95165ee4f65753",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Beast I Demon God King; not Human King or Solomon disguise"
+    },
+    {
+      "file_key": "surtr_lb2.webp",
+      "repo_relative_path": "chars/surtr_lb2.webp",
+      "canonical_name": "苏鲁特",
+      "english_name": "Surtr",
+      "aliases": [
+        "Surtr",
+        "Surtr-Fenrir",
+        "史尔特尔",
+        "灾厄之炎",
+        "炎之巨人",
+        "苏鲁特",
+        "苏鲁特·芬里尔"
+      ],
+      "worldbook_uids": [
+        740
+      ],
+      "period_or_variant": "Lostbelt 2 original Surtr-Fenrir giant / fire and ice armor; not Sigurd vessel",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "557cb657e782adf4521508355fe1ddaa499e93f8f13b85b4c94e86f4fb6e0ad1",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 2 original Surtr-Fenrir giant / fire and ice armor; not Sigurd vessel"
+    },
+    {
+      "file_key": "solomon_grand_caster.webp",
+      "repo_relative_path": "chars/solomon_grand_caster.webp",
+      "canonical_name": "所罗门",
+      "english_name": "Solomon",
+      "aliases": [
+        "Grand Caster",
+        "Solomon",
+        "冠位魔术师所罗门",
+        "所罗门",
+        "所罗门（Grand Caster）",
+        "真正的所罗门",
+        "魔术之王"
+      ],
+      "worldbook_uids": [
+        743
+      ],
+      "period_or_variant": "True Grand Caster / first-arc Solomon finale; not Goetia disguise or later Pretender",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5312fe108be61d4bce05eba11b617579d252fb2ba50300214f654ddadc58ec4c",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. True Grand Caster / first-arc Solomon finale; not Goetia disguise or later Pretender"
+    },
+    {
+      "file_key": "tiamat_beast_ii.webp",
+      "repo_relative_path": "chars/tiamat_beast_ii.webp",
+      "canonical_name": "提亚马特",
+      "english_name": "Tiamat",
+      "aliases": [
+        "Beast II",
+        "Tiamat",
+        "原初之母",
+        "回归之兽",
+        "提亚马特",
+        "提亚马特神",
+        "提亚马特（Beast II）"
+      ],
+      "worldbook_uids": [
+        744
+      ],
+      "period_or_variant": "Babylonia Beast II / adult Femme Fatale; modest shoulder-wrap adaptation; not Larva, swimsuit or giant dragon",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "11b93cf8f1bdae8b3e13bba3676dc0b458d2d4267bdf5db153f1a3d25321ee2b",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Babylonia Beast II / adult Femme Fatale; modest shoulder-wrap adaptation; not Larva, swimsuit or giant dragon Shoulder clothing adapted for full coverage; original reference was visually inspected, but final generation used a nonsexual text-only description after input moderation rejected the card art."
+    },
+    {
+      "file_key": "fou_cath_palug.webp",
+      "repo_relative_path": "chars/fou_cath_palug.webp",
+      "canonical_name": "芙芙",
+      "english_name": "Fou / Cath Palug",
+      "aliases": [
+        "Beast IV",
+        "Cath Palug",
+        "Fou",
+        "凯席帕鲁格",
+        "比较之兽",
+        "灵长类杀手",
+        "芙芙"
+      ],
+      "worldbook_uids": [
+        745
+      ],
+      "period_or_variant": "Small white familiar beast form; not hypothetical full Beast IV body",
+      "gender": "雄性",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "07df29097b1a243f351f6a92d7a38b83e6cb2d180df9036651d1e88a77e4e5b6",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Small white familiar beast form; not hypothetical full Beast IV body"
+    },
+    {
+      "file_key": "u_olga_marie_beast_vii.webp",
+      "repo_relative_path": "chars/u_olga_marie_beast_vii.webp",
+      "canonical_name": "U-奥尔加玛丽",
+      "english_name": "U-Olga Marie",
+      "aliases": [
+        "Beast VII",
+        "U-Olga Marie",
+        "U-奥尔加玛丽",
+        "大总统奥尔加玛丽",
+        "异星之神",
+        "极星大总统",
+        "Ｕ－オルガマリー"
+      ],
+      "worldbook_uids": [
+        746
+      ],
+      "period_or_variant": "Original Lostbelt 7 alien-god Earth President appearance; not human director",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "16a55a44958abf747c79f680ee78aa1c4aab3fc3d9ab62ef45ffbd85da77eb68",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Lostbelt 7 alien-god Earth President appearance; not human director"
+    },
+    {
+      "file_key": "olga_marie_fgo.webp",
+      "repo_relative_path": "chars/olga_marie_fgo.webp",
+      "canonical_name": "奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚",
+      "english_name": "Olga Marie Asmleit Animusphere",
+      "aliases": [
+        "Olga Marie",
+        "Olga Marie Animusphere",
+        "奥尔加玛丽",
+        "奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚",
+        "奥尔加玛丽（FGO）",
+        "所长"
+      ],
+      "worldbook_uids": [
+        696
+      ],
+      "period_or_variant": "Human Chaldea director / Singularity F; not U-Olga Marie",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1ea9122f6d1d6756c9a1ef4dc4f7fb36fa8a67df288bc9d42420548ae6817259",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Human Chaldea director / Singularity F; not U-Olga Marie"
+    },
+    {
+      "file_key": "kirschtaria_wodime_fgo.webp",
+      "repo_relative_path": "chars/kirschtaria_wodime_fgo.webp",
+      "canonical_name": "基尔什塔利亚·沃达伊姆",
+      "english_name": "Kirschtaria Wodime",
+      "aliases": [
+        "A队队长",
+        "Kirschtaria Wodime",
+        "Wodime",
+        "基尔什塔利亚",
+        "基尔什塔利亚·沃戴姆",
+        "基尔什塔利亚·沃达伊姆",
+        "沃达伊姆"
+      ],
+      "worldbook_uids": [
+        725
+      ],
+      "period_or_variant": "Original Crypter / Olympus",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d90859c23670f1273ac1d28863f1b29218e956a66b7316d190f182eee21a2a64",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter / Olympus"
+    },
+    {
+      "file_key": "kadoc_zemlupus_fgo.webp",
+      "repo_relative_path": "chars/kadoc_zemlupus_fgo.webp",
+      "canonical_name": "卡多克·泽姆露普斯",
+      "english_name": "Kadoc Zemlupus",
+      "aliases": [
+        "Kadoc",
+        "Kadoc Zemlupus",
+        "卡多克",
+        "卡多克·泽姆露普斯",
+        "卡多克·泽姆鲁普斯",
+        "卡少"
+      ],
+      "worldbook_uids": [
+        726
+      ],
+      "period_or_variant": "Original black-coat Crypter",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c6a52bf2f8b8dde9f6d3260ad3c9ce6761c52d173520cee75f496b3dd464cf65",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original black-coat Crypter"
+    },
+    {
+      "file_key": "ophelia_phamrsolone_fgo.webp",
+      "repo_relative_path": "chars/ophelia_phamrsolone_fgo.webp",
+      "canonical_name": "奥菲莉娅·法姆索罗涅",
+      "english_name": "Ophelia Phamrsolone",
+      "aliases": [
+        "Ophelia",
+        "Ophelia Phamrsolone",
+        "奥菲莉娅",
+        "奥菲莉娅·法姆索罗涅"
+      ],
+      "worldbook_uids": [
+        727
+      ],
+      "period_or_variant": "Original Crypter / right-eye patch",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "38a6d5e3c7200f8b350c55c6bead3589aa1370fde7539a443c28da93f7c71404",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter / right-eye patch"
+    },
+    {
+      "file_key": "akuta_hinako_crypter.webp",
+      "repo_relative_path": "chars/akuta_hinako_crypter.webp",
+      "canonical_name": "芥雏子",
+      "english_name": "Akuta Hinako",
+      "aliases": [
+        "Akuta",
+        "Akuta Hinako",
+        "Hinako Akuta",
+        "芥ヒナコ",
+        "芥雏子",
+        "芥雏子（隐匿者）",
+        "虞姬",
+        "虞美人"
+      ],
+      "worldbook_uids": [
+        728
+      ],
+      "period_or_variant": "Crypter disguise / glasses / white duffle coat; not Assassin or swimsuit",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "00e1672bf1ba2ee50e8712530ca02b84aea15c4272c03e0994c20eb485e01cd4",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Crypter disguise / glasses / white duffle coat; not Assassin or swimsuit"
+    },
+    {
+      "file_key": "scandinavia_peperoncino_fgo.webp",
+      "repo_relative_path": "chars/scandinavia_peperoncino_fgo.webp",
+      "canonical_name": "斯堪的纳维亚·佩佩隆奇诺",
+      "english_name": "Scandinavia Peperoncino",
+      "aliases": [
+        "Pepe",
+        "Scandinavia Peperoncino",
+        "佩佩",
+        "佩佩隆奇诺",
+        "斯堪的纳维亚·佩佩隆奇诺"
+      ],
+      "worldbook_uids": [
+        729
+      ],
+      "period_or_variant": "Original Crypter appearance",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4fcafb892643d91e54dc645c97a11862a13d5fb780da6a3344f067c99ea67fae",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Crypter appearance"
+    },
+    {
+      "file_key": "beryl_gut_fgo.webp",
+      "repo_relative_path": "chars/beryl_gut_fgo.webp",
+      "canonical_name": "贝里尔·伽特",
+      "english_name": "Beryl Gut",
+      "aliases": [
+        "Beryl",
+        "Beryl Gut",
+        "贝里尔",
+        "贝里尔·伽特"
+      ],
+      "worldbook_uids": [
+        730
+      ],
+      "period_or_variant": "Human Crypter; not werewolf",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9e922ca5a2246e51cfd9ef2c6e4053011353221ccf92327f13ecc8efb6745ab9",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Human Crypter; not werewolf"
+    },
+    {
+      "file_key": "daybit_sem_void_fgo.webp",
+      "repo_relative_path": "chars/daybit_sem_void_fgo.webp",
+      "canonical_name": "戴比特·泽姆·沃伊德",
+      "english_name": "Daybit Sem Void",
+      "aliases": [
+        "Daybit",
+        "Daybit Sem Void",
+        "戴总",
+        "戴比特",
+        "戴比特·泽姆·沃伊德"
+      ],
+      "worldbook_uids": [
+        731
+      ],
+      "period_or_variant": "Lostbelt 7 original Crypter",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "3611dea4a9a1a84967e45b09278be00ae922b7de6051f167ac112e3135afda8d",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 7 original Crypter"
+    },
+    {
+      "file_key": "goredolf_musik_fgo.webp",
+      "repo_relative_path": "chars/goredolf_musik_fgo.webp",
+      "canonical_name": "戈尔道夫·穆吉克",
+      "english_name": "Goredolf Musik",
+      "aliases": [
+        "Goldolf Musik",
+        "Gordolf Musik",
+        "Goredolf Musik",
+        "戈尔多夫",
+        "戈尔德鲁夫",
+        "戈尔德鲁夫·穆吉克",
+        "戈尔道夫",
+        "戈尔道夫·穆吉克",
+        "新所长",
+        "穆吉克"
+      ],
+      "worldbook_uids": [
+        732
+      ],
+      "period_or_variant": "FGO adult Chaldea new director; not Gordes (Apocrypha)",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "cd9ac4a978e4fefb79358e569eef7bdae58d526d3e22e6a0753767c7ce4f9217",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. FGO adult Chaldea new director; not Gordes (Apocrypha)"
+    },
+    {
+      "file_key": "sion_eltnam_sokaris_fgo.webp",
+      "repo_relative_path": "chars/sion_eltnam_sokaris_fgo.webp",
+      "canonical_name": "紫苑·艾尔特纳姆·索卡里斯",
+      "english_name": "Sion Eltnam Sokaris",
+      "aliases": [
+        "Sion",
+        "Sion Eltnam Sokaris",
+        "シオン・エルトナム・ソカリス",
+        "希翁",
+        "希翁（FGO）",
+        "紫苑",
+        "紫苑·艾尔特纳姆·索卡里斯",
+        "紫苑（FGO）"
+      ],
+      "worldbook_uids": [
+        733
+      ],
+      "period_or_variant": "FGO Sokaris / Novum Chaldea; not Melty Blood Eltnam Atlasia",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "12a84cc707e4845ecc7bb02611dea171db48663213ba17ca29d9b2c1ed5a0a01",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. FGO Sokaris / Novum Chaldea; not Melty Blood Eltnam Atlasia"
+    },
+    {
+      "file_key": "camazotz_lb7.webp",
+      "repo_relative_path": "chars/camazotz_lb7.webp",
+      "canonical_name": "卡玛佐茨",
+      "english_name": "Camazotz",
+      "aliases": [
+        "Camazotz",
+        "カマソッソ",
+        "冥界王卡玛佐茨",
+        "勇者王",
+        "卡玛佐茨",
+        "卡马佐茨",
+        "蝙蝠神"
+      ],
+      "worldbook_uids": [
+        737
+      ],
+      "period_or_variant": "Lostbelt 7 humanoid with original headdress; not giant Beast battle body",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2fd3148aa5f9709ea2f02b5ea2049c4dfce3a1991d8acb66c4a16d110e3a20fa",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 7 humanoid with original headdress; not giant Beast battle body"
+    },
+    {
+      "file_key": "zeus_lb5_humanoid.webp",
+      "repo_relative_path": "chars/zeus_lb5_humanoid.webp",
+      "canonical_name": "宙斯",
+      "english_name": "Zeus",
+      "aliases": [
+        "Zeus",
+        "全能神宙斯",
+        "奥林匹斯宙斯",
+        "宙斯",
+        "宙斯（奥林匹斯人形）",
+        "机神宙斯"
+      ],
+      "worldbook_uids": [
+        738
+      ],
+      "period_or_variant": "Lostbelt 5 Olympus humanoid avatar; not mechanical flagship",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5e46b7710ec70d838584fc8277cc32ea8963cde12f0ef79ccaa79880c1f33289",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 5 Olympus humanoid avatar; not mechanical flagship"
+    },
+    {
+      "file_key": "goetia_beast_i.webp",
+      "repo_relative_path": "chars/goetia_beast_i.webp",
+      "canonical_name": "盖提亚",
+      "english_name": "Goetia",
+      "aliases": [
+        "Beast I",
+        "Goetia",
+        "怜悯之兽",
+        "盖提亚",
+        "盖提亚（魔神王）",
+        "魔神王",
+        "魔神王盖提亚"
+      ],
+      "worldbook_uids": [
+        739
+      ],
+      "period_or_variant": "Beast I Demon God King; not Human King or Solomon disguise",
+      "gender": "无性别",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d67e4d33f79a961bdafb9f794a01ea21606b915106c6aa27ed95165ee4f65753",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Beast I Demon God King; not Human King or Solomon disguise"
+    },
+    {
+      "file_key": "surtr_lb2.webp",
+      "repo_relative_path": "chars/surtr_lb2.webp",
+      "canonical_name": "苏鲁特",
+      "english_name": "Surtr",
+      "aliases": [
+        "Surtr",
+        "Surtr-Fenrir",
+        "史尔特尔",
+        "灾厄之炎",
+        "炎之巨人",
+        "苏鲁特",
+        "苏鲁特·芬里尔"
+      ],
+      "worldbook_uids": [
+        740
+      ],
+      "period_or_variant": "Lostbelt 2 original Surtr-Fenrir giant / fire and ice armor; not Sigurd vessel",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "557cb657e782adf4521508355fe1ddaa499e93f8f13b85b4c94e86f4fb6e0ad1",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Lostbelt 2 original Surtr-Fenrir giant / fire and ice armor; not Sigurd vessel"
+    },
+    {
+      "file_key": "solomon_grand_caster.webp",
+      "repo_relative_path": "chars/solomon_grand_caster.webp",
+      "canonical_name": "所罗门",
+      "english_name": "Solomon",
+      "aliases": [
+        "Grand Caster",
+        "Solomon",
+        "冠位魔术师所罗门",
+        "所罗门",
+        "所罗门（Grand Caster）",
+        "真正的所罗门",
+        "魔术之王"
+      ],
+      "worldbook_uids": [
+        743
+      ],
+      "period_or_variant": "True Grand Caster / first-arc Solomon finale; not Goetia disguise or later Pretender",
+      "gender": "男",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5312fe108be61d4bce05eba11b617579d252fb2ba50300214f654ddadc58ec4c",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. True Grand Caster / first-arc Solomon finale; not Goetia disguise or later Pretender"
+    },
+    {
+      "file_key": "tiamat_beast_ii.webp",
+      "repo_relative_path": "chars/tiamat_beast_ii.webp",
+      "canonical_name": "提亚马特",
+      "english_name": "Tiamat",
+      "aliases": [
+        "Beast II",
+        "Tiamat",
+        "原初之母",
+        "回归之兽",
+        "提亚马特",
+        "提亚马特神",
+        "提亚马特（Beast II）"
+      ],
+      "worldbook_uids": [
+        744
+      ],
+      "period_or_variant": "Babylonia Beast II / adult Femme Fatale; modest shoulder-wrap adaptation; not Larva, swimsuit or giant dragon",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "11b93cf8f1bdae8b3e13bba3676dc0b458d2d4267bdf5db153f1a3d25321ee2b",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Babylonia Beast II / adult Femme Fatale; modest shoulder-wrap adaptation; not Larva, swimsuit or giant dragon Shoulder clothing adapted for full coverage; original reference was visually inspected, but final generation used a nonsexual text-only description after input moderation rejected the card art."
+    },
+    {
+      "file_key": "fou_cath_palug.webp",
+      "repo_relative_path": "chars/fou_cath_palug.webp",
+      "canonical_name": "芙芙",
+      "english_name": "Fou / Cath Palug",
+      "aliases": [
+        "Beast IV",
+        "Cath Palug",
+        "Fou",
+        "凯席帕鲁格",
+        "比较之兽",
+        "灵长类杀手",
+        "芙芙"
+      ],
+      "worldbook_uids": [
+        745
+      ],
+      "period_or_variant": "Small white familiar beast form; not hypothetical full Beast IV body",
+      "gender": "雄性",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "07df29097b1a243f351f6a92d7a38b83e6cb2d180df9036651d1e88a77e4e5b6",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Small white familiar beast form; not hypothetical full Beast IV body"
+    },
+    {
+      "file_key": "u_olga_marie_beast_vii.webp",
+      "repo_relative_path": "chars/u_olga_marie_beast_vii.webp",
+      "canonical_name": "U-奥尔加玛丽",
+      "english_name": "U-Olga Marie",
+      "aliases": [
+        "Beast VII",
+        "U-Olga Marie",
+        "U-奥尔加玛丽",
+        "大总统奥尔加玛丽",
+        "异星之神",
+        "极星大总统",
+        "Ｕ－オルガマリー"
+      ],
+      "worldbook_uids": [
+        746
+      ],
+      "period_or_variant": "Original Lostbelt 7 alien-god Earth President appearance; not human director",
+      "gender": "女",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "16a55a44958abf747c79f680ee78aa1c4aab3fc3d9ab62ef45ffbd85da77eb68",
+      "visual_review": "2026-10-27: Generated from the named original FGO illustration and individually inspected against face, hair, eyes, costume and identity/variant. Original Lostbelt 7 alien-god Earth President appearance; not human director"
     }
   ],
-  "worldbook_entry_count": 644,
-  "worldbook_character_count": 613
+  "worldbook_entry_count": 696,
+  "worldbook_character_count": 635,
+  "contextual_alias_rules": [
+    {
+      "aliases": [
+        "所长"
+      ],
+      "selector": "current_profile.uid_or_story_period",
+      "cases": {
+        "696": "olga_marie_fgo.webp",
+        "732": "goredolf_musik_fgo.webp",
+        "746": "u_olga_marie_beast_vii.webp"
+      },
+      "unknown": "unresolved_do_not_default"
+    },
+    {
+      "aliases": [
+        "虞美人",
+        "虞姬"
+      ],
+      "selector": "current_profile.uid_and_class",
+      "cases": {
+        "728": "akuta_hinako_crypter.webp",
+        "440": "fgo_230.webp",
+        "496": "fgo_288.webp"
+      },
+      "unknown": "unresolved_do_not_default"
+    },
+    {
+      "aliases": [
+        "提亚马特",
+        "Tiamat"
+      ],
+      "selector": "current_profile.uid_and_form",
+      "cases": {
+        "744": "tiamat_beast_ii.webp",
+        "Larva/Alterego": "fgo_376.webp",
+        "swimsuit/Archer": "fgo_450.webp"
+      },
+      "unknown": "unresolved_do_not_default"
+    },
+    {
+      "aliases": [
+        "所罗门",
+        "Solomon"
+      ],
+      "selector": "identity_not_surface_name",
+      "cases": {
+        "true_Grand_Caster": "solomon_grand_caster.webp"
+      },
+      "unavailable_cases": [
+        "Goetia disguised as Solomon",
+        "Romani in doctor clothes",
+        "later Pretender"
+      ],
+      "unknown": "unresolved_do_not_default"
+    },
+    {
+      "aliases": [
+        "Fou",
+        "芙芙",
+        "Cath Palug"
+      ],
+      "selector": "current_form",
+      "cases": {
+        "small_white_familiar": "fou_cath_palug.webp"
+      },
+      "unknown": "full_Beast_IV_form_not_delivered"
+    }
+  ]
 }
