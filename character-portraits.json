@@ -1231,7 +1231,13 @@
     "黑库丘林": "fgo_98.webp",
     "/(大河)(?![流边湾岸系])/": "fujimura_taiga.webp",
     "/(老虎)(?![机钳凳油])/": "fujimura_taiga.webp",
+    "Fujimura Taiga": "fujimura_taiga.webp",
+    "Taiga Fujimura": "fujimura_taiga.webp",
+    "大河": "fujimura_taiga.webp",
+    "藤ねえ": "fujimura_taiga.webp",
+    "藤姐": "fujimura_taiga.webp",
     "藤村大河": "fujimura_taiga.webp",
+    "藤村老师": "fujimura_taiga.webp",
     "蓝胡子": "gilles_de_rais.webp",
     "/(亚特)(?!兰)/": "gray_fate.webp",
     "Hassan of the Cursed Arm": "hassan_cursed_arm.webp",
@@ -2599,7 +2605,6 @@
       "emiya_shirou.webp",
       "enkidu.webp",
       "ereshkigal.webp",
-      "fujimura_taiga.webp",
       "gilles_de_rais.webp",
       "gray_fate.webp",
       "hassan_cursed_arm.webp",
@@ -10997,18 +11002,24 @@
       "aliases": [
         "/(大河)(?![流边湾岸系])/",
         "/(老虎)(?![机钳凳油])/",
-        "藤村大河"
+        "Fujimura Taiga",
+        "Taiga Fujimura",
+        "大河",
+        "藤ねえ",
+        "藤姐",
+        "藤村大河",
+        "藤村老师"
       ],
       "worldbook_uids": [
         36
       ],
       "period_or_variant": "藤村大河",
-      "gender": null,
+      "gender": "女",
       "width": 1254,
       "height": 1254,
-      "sha256": "69a31d89ed803657569c2d0fcd1f34b419bc2326a22e9e97a5c5ac978421bf9a",
+      "sha256": "1f76fb33dfdf640da91fd0cce5198d63a230c942010b0dfa46baba799cfaa399",
       "compatibility_alias_of": null,
-      "visual_review": "canonical-description-guided; no independent original-image check recorded"
+      "visual_review": "2026-10-26: corrected against official Heaven's Feel and 2006 FSN anime character images. Compact chestnut short hair, fine fringe, pearl studs, adult face, mustard striped V-neck top and teal thin-strap pinafore. Old giant ahoge/shaggy hair and neck-loop apron removed. Human Taiga; not Jaguar Man."
     },
     {
       "file_key": "gilgamesh.webp",
